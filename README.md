@@ -1,11 +1,6 @@
-# Skribblrs.io
+# skribbl_rs
 
-![CodeQL](https://github.com/Aditya-ds-1806/Skribblrs.io/workflows/CodeQL/badge.svg?branch=main)
-![OSSAR](https://github.com/Aditya-ds-1806/Skribblrs.io/workflows/OSSAR/badge.svg?branch=main)
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fskribblrs.up.railway.app/)
-[![GitHub license](https://img.shields.io/github/license/Aditya-ds-1806/Skribblrs.io)](https://github.com/Aditya-ds-1806/Skribblrs.io/blob/main/LICENSE)
-
-Skribblrs.io is my attempt at building a clone of the web-based drawing and guessing game [skribbl.io](https://skribbl.io).
+skribbl_rs is our attempt at building a clone of the web-based drawing and guessing game [skribbl.io](https://skribbl.io).
 
 To play a game: [https://skribblrs.up.railway.app/](https://skribblrs.up.railway.app/)
 
@@ -18,8 +13,8 @@ The site does not collect any user data or display ads.
 The project requires Node.js to be installed on your system. To run the project locally:
 
 ```bash
-git clone https://github.com/Aditya-ds-1806/Skribblrs.io.git
-cd Skribblrs.io
+git clone https://github.com/Teja-11/skribbl_rs.git
+cd skribbl_rs
 npm i
 npm run start
 ```
@@ -54,33 +49,9 @@ The app will run by default on port 3000. Open your browser and go to [http://lo
 
 ## Credits
 
-1. Background Image: [https://skribbl.io/res/background.png](https://skribbl.io/res/background.png)
-2. Feature ideas: [https://github.com/scribble-rs/scribble.rs](https://github.com/scribble-rs/scribble.rs)
-3. Sounds: [https://freesound.org/](https://freesound.org/)
+1. Feature ideas: [https://github.com/scribble-rs/scribble.rs](https://github.com/scribble-rs/scribble.rs)
+2. Sounds: [https://freesound.org/](https://freesound.org/)
 
-## License
-
-MIT License
-
-Copyright (c) 2021 Aditya DS
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
 
 [landing]: ./public/images/screenshots/landing.png
 [settings]: ./public/images/screenshots/settings.png
