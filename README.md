@@ -82,7 +82,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[landing]: ./public/images/screenshots/landing.jpeg
-[settings]: ./public/images/screenshots/settings.jpeg
+[landing]: ./public/images/screenshots/landing.png
+[settings]: ./public/images/screenshots/settings.png
 [game]: ./public/images/screenshots/game.png
-[scores]: ./public/images/screenshots/scores.jpeg
+[scores]: ./public/images/screenshots/scores.png
