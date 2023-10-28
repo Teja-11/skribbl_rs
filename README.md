@@ -8,6 +8,10 @@ To play a game: [https://skribblrs.up.railway.app/](https://skribblrs.up.railway
 
 The site does not collect any user data or display ads.
 
+## Hosted game URL
+
+https://skribbl-multiplayer-cf4b28d28f83.herokuapp.com/
+
 ## Local setup
 
 The project requires Node.js to be installed on your system. To run the project locally:
