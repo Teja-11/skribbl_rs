@@ -62,6 +62,14 @@ The app will run by default on port 3000. Open your browser and go to [http://lo
 [game]: ./public/images/screenshots/game.png
 [scores]: ./public/images/screenshots/scores.png
 
+## Developers
+
+This project, which attempts to create a browser-based geography game, was created by a group of passionate developers. Introducing the developers of the project:
+
+- Tejasree Challagundla
+- Chandana Pothugunta
+- Rohan Jayesh Kalgutkar
+
 
 ## Reflection
 
