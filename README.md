@@ -2,7 +2,7 @@
 
 skribbl_rs is our attempt at building a clone of the web-based drawing and guessing game [skribbl.io](https://skribbl.io).
 
-To play a game: [https://skribblrs.up.railway.app/](https://skribblrs.up.railway.app/)
+To play a game: [https://skribbl.io/](https://skribbl.io/)
 
 > It might take a few seconds to respond due to inactivity.
 
