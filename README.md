@@ -61,3 +61,9 @@ The app will run by default on port 3000. Open your browser and go to [http://lo
 [settings]: ./public/images/screenshots/settings.png
 [game]: ./public/images/screenshots/game.png
 [scores]: ./public/images/screenshots/scores.png
+
+
+## Reflection
+
+The journey of developing Skribbl_rs was a rewarding experience characterized by collaboration and learning. Our team encountered various challenges, celebrated victories, and learned invaluable lessons throughout the process of crafting this engaging game.
+
