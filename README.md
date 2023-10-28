@@ -67,3 +67,9 @@ The app will run by default on port 3000. Open your browser and go to [http://lo
 
 The journey of developing Skribbl_rs was a rewarding experience characterized by collaboration and learning. Our team encountered various challenges, celebrated victories, and learned invaluable lessons throughout the process of crafting this engaging game.
 
+Challenges:
+Defining the core concept of the game was our initial hurdle. As the project progressed, technical challenges surfaced. Integrating real-time communication and synchronizing the backend with the frontend demanded meticulous coding. Balancing task estimations and harmonizing functionality with design presented ongoing challenges.
+
+Successes:
+Our structured project management approach, complemented by an agile mindset, played a pivotal role in our success. Assigning tasks based on individual strengths and maintaining open communication were instrumental in our achievements. Leveraging collaboration tools such as Git and GitHub facilitated seamless teamwork. Our tech stack, encompassing Node.js, Socket.io, Express, EJS, Bootstrap, and other libraries, empowered our development process.
+
