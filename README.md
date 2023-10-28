@@ -73,3 +73,8 @@ Defining the core concept of the game was our initial hurdle. As the project pro
 Successes:
 Our structured project management approach, complemented by an agile mindset, played a pivotal role in our success. Assigning tasks based on individual strengths and maintaining open communication were instrumental in our achievements. Leveraging collaboration tools such as Git and GitHub facilitated seamless teamwork. Our tech stack, encompassing Node.js, Socket.io, Express, EJS, Bootstrap, and other libraries, empowered our development process.
 
+Lessons Learned:
+Flexibility and effective communication emerged as pivotal lessons. Adapting to evolving circumstances and embracing challenges amplified our problem-solving skills. Rigorous testing and innovative solutions were critical in ensuring the reliability of our application. Skribbl_rs not only showcased our technical proficiency but also our capacity to overcome obstacles collectively.
+
+Conclusion:
+Skribbl_rs stands as a testament to our growth in the realm of technology. Through teamwork, adaptability, and a robust tech stack, we turned challenges into opportunities. This project not only resulted in an entertaining game but also strengthened our collaborative spirit and technical expertise. The journey of creating Skribbl_rs was not just about the game itself but about the collective growth and learning experience it provided.
